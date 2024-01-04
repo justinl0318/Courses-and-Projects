@@ -1,0 +1,1354 @@
+VCD info: dumpfile waveform.vcd opened for output.
+WARNING: code/supplied/testbench.v:35: $readmemb(instruction.txt): Not enough words in the file for the requested range [0:255].
+cycle =      0, PC =      0, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =    -27
+x4 =      0, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =      1, PC =      4, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =    -27
+x4 =      0, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =      2, PC =      8, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =    -27
+x4 =      0, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =      3, PC =     12, 
+Predict =      1, IFID_Flush =      1
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =    -27
+x4 =      0, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =      4, PC =     14, 
+Predict =      1, IFID_Flush =      1
+ALU_out =      8
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =    -27
+x4 =      0, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =      5, PC =     12, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =    -27
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =      6, PC =     16, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =    -27
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =      7, PC =     20, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =    -27
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =      8, PC =     24, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =    -27
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =      9, PC =     28, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =    -27
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     10, PC =     32, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     11, PC =     36, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     12, PC =     40, 
+Predict =      1, IFID_Flush =      1
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     13, PC =     46, 
+Predict =      1, IFID_Flush =      0
+ALU_out =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -24
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     14, PC =     50, 
+Predict =      1, IFID_Flush =      1
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =      0, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     15, PC =     54, 
+Predict =      1, IFID_Flush =      1
+ALU_out =     62
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     16, PC =     50, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     17, PC =     54, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     18, PC =     58, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     19, PC =     62, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     20, PC =     66, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =    -25
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     21, PC =     70, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     -8, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =     29
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     22, PC =     74, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     23, PC =     78, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     24, PC =     82, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =    -26
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     25, PC =     86, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     26, PC =     90, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     27, PC =     94, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     28, PC =     98, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     60
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     29, PC =    102, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =      0, x19 =    -23, x27 =     -3
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     20
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     30, PC =    106, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =     -3
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     20
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     31, PC =    110, 
+Predict =      1, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =     -3
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     20
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     32, PC =    114, 
+Predict =      1, IFID_Flush =      1
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =     20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     20
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     33, PC =    114, 
+Predict =      1, IFID_Flush =      1
+ALU_out =     62
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     20
+x7 =      0, x15 =      0, x23 =      0, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     34, PC =    114, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =     20
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     35, PC =    118, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     36, PC =    122, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     37, PC =    126, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     38, PC =    130, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =      0, x24 =    -20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     39, PC =    134, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =      0, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     40, PC =    138, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     41, PC =    142, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     42, PC =    146, 
+Predict =      0, IFID_Flush =      0
+ALU_out =     42
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =      0, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     43, PC =    150, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     44, PC =    154, 
+Predict =      0, IFID_Flush =      0
+ALU_out =     56
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     45, PC =    158, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     46, PC =    162, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     47, PC =    166, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =    -20, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     48, PC =    170, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     49, PC =    174, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     50, PC =    178, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     51, PC =    182, 
+Predict =      0, IFID_Flush =      0
+ALU_out = 4294967273
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     52, PC =    186, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     53, PC =    190, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     54, PC =    194, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     55, PC =    198, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     56, PC =    202, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     57, PC =    206, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     62
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     18
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     58, PC =    210, 
+Predict =      0, IFID_Flush =      1
+ALU_out =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     10
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     21
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     59, PC =    208, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      0
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     10
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     21
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     60, PC =    212, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      1
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     10
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     21
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     61, PC =    216, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      1
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     10
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     21
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     62, PC =    220, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      1
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     10
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     21
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
+cycle =     63, PC =    224, 
+Predict =      0, IFID_Flush =      0
+Registers
+x0 =      0, x8  =      0, x16 =    -20, x24 =    -20
+x1 =     24, x9  =      0, x17 =      0, x25 =      0
+x2 =      0, x10 =      0, x18 =      0, x26 =      1
+x3 =      0, x11 =     58, x19 =    -23, x27 =      0
+x4 =     20, x12 =      0, x20 =      0, x28 =     56
+x5 =     21, x13 =      0, x21 =      0, x29 =     58
+x6 =      0, x14 =      0, x22 =      0, x30 =      0
+x7 =      0, x15 =      0, x23 =     58, x31 =     10
+Data Memory: 0x00 =      5
+Data Memory: 0x04 =      6
+Data Memory: 0x08 =     10
+Data Memory: 0x0C =     21
+Data Memory: 0x10 =      0
+Data Memory: 0x14 =      0
+Data Memory: 0x18 =      0
+Data Memory: 0x1C =      0
+
+
